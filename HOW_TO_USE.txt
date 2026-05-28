@@ -1,0 +1,42 @@
+HOW TO USE
+
+Step 1:
+Open the .exe file
+
+Step 2:
+Enter the folder path
+
+Example:
+C:\Users\YourName\Pictures
+
+Step 3:
+Wait for scan to complete
+
+Step 4:
+View duplicate file names
+
+Step 5:
+Type "yes" to delete duplicates OR "no" to cancel
+
+---
+
+NOTES:
+
+* Only exact duplicate images are detected
+* Original file is NOT deleted (only duplicates are removed)
+* Files are permanently deleted
+* Internet is NOT required
+
+---
+
+IMPORTANT:
+
+Use carefully. Deleted files cannot be recovered.
+
+---
+
+CREATED BY:
+ABHIRAM
+
+Instagram:
+https://www.instagram.com/themabhiram/
